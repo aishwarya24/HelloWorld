@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
  - name: docs
    about: Request a new feature
-   url: https://github.com/aishwarya24/HelloWorld/issues/new?assignees=&labels=area%2Fdocumentation&template=docs.md&title=%5BDocs%5D+Title&projects=Narigo%2Fdocumentation
+   url: https://github.com/aishwarya24/HelloWorld/issues/new?assignees=&labels=area%2Fdocumentation&template=docs.md&title=%5BDocs%5D+Title&projects=Documentation
