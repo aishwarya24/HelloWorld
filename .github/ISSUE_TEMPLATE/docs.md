@@ -4,7 +4,6 @@ about: Choose this template to create a documentation issue.
 title: "[Docs] Title"
 labels: area/documentation
 assignees: ''
-projects: documentation
 
 ---
 
