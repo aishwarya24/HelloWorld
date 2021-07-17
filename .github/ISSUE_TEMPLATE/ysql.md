@@ -2,7 +2,7 @@
 name: Core-YSQL
 about: Choose this template to create a YSQL issue.
 title: "[YSQL] Title"
-labels: area/ysql
+labels: ''
 assignees: ''
 
 ---

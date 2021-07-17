@@ -2,7 +2,7 @@
 name: Core-YCQL
 about: Choose this template to create a YCQL issue.
 title: "[YCQL] Title"
-labels: area/ycql
+labels: ''
 assignees: ''
 
 ---
