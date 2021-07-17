@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 Provide a detailed description of the issue you want to report related to YCQL.
-Include relevant steps to reproduce the issues.
+Include relevant steps to reproduce the issue.
