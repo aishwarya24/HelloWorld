@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-Provide a clear description of the issue you want to report related to the UI in yugabyte. 
-For instance , if it is a platform issue, you could also include it in your issue title as follows:
+Provide a clear description of the issue you want to report related to the UI in Yugabyte. 
+For instance , if it is a platform issue, you could include it in your issue title as follows:
 [UI][Platform] Title 
