@@ -1,6 +1,6 @@
 ---
 name: Core-DocDB 
-about: Choose this template to create a Yugabyte Core DocDB issue.
+about: Choose this template to create a DocDB issue.
 title: "[DocDB] Title"
 labels: 'area/docdb'
 assignees: ''
