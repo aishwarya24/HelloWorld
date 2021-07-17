@@ -1,4 +1,6 @@
 ---
+name: Platform
+about: Choose this template to create a Yugabyte Platform issue.
 title: "[Platform] Title"
 labels: area/platform
 assignees: ''
