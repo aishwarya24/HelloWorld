@@ -1,5 +1,5 @@
 ---
-name: UI
+name: Yugabyte UI
 about: Choose this template to create a UI issue.
 title: "[UI] Title"
 labels: area/ui
