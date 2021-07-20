@@ -3,10 +3,10 @@ description: Choose this template to create a documentation issue.
 title: "[Docs] Title"
 labels: "area/documentation"
 body:
-  - type: textarea
-  id: what-happened
+- type: textarea
+  id: repro
   attributes:
-    label: What happened?
+    label: Reproduction steps
     validations:
       required: false       
    
