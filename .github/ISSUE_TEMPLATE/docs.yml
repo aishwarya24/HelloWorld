@@ -7,7 +7,8 @@ body:
   id: documentation
   attributes:
     label: Description
-    placeholder: **Provide a detailed description of the information you want to update/include in the YugabyteDB docs.**
+    placeholder: |
+      **Provide a detailed description of the information you want to update/include in the YugabyteDB docs.**
   validations:
     required: true 
     
