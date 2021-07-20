@@ -3,10 +3,14 @@ description: Choose this template to create a documentation issue.
 title: "[Docs] Title"
 labels: "area/documentation"
 body:
-- type: textarea
-  id: repro
+- type: input
+  id: contact
   attributes:
-    label: Description
-    description: Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
+    label: Contact Details
+    description: How can we get in touch with you if we need more info?
+    placeholder: Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
+  validations:
+    required: false 
+    
    
         
