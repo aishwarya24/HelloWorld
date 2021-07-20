@@ -6,6 +6,7 @@ body:
 - type: textarea
   id: repro
   attributes:
-    label: Provide a detailed description of the information you want to update/include in the YugabyteDB docs.  
+    label: Description
+    description: Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
    
         
