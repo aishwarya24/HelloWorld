@@ -1,4 +1,4 @@
-name: UI
+name: Yugabyte UI
 description: Choose this template to create a YCQL issue.
 title: "[UI] Title"
 labels: "area/ui"
