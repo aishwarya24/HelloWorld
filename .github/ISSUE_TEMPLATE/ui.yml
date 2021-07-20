@@ -1,0 +1,13 @@
+name: Core-YCQL
+description: Choose this template to create a YCQL issue.
+title: "[YCQL] Title"
+labels: "area/ycql"
+body:
+- type: textarea
+  id: ycql
+  attributes:
+    label: Description
+    placeholder: "Provide a clear description of the issue you want to report related to the UI in Yugabyte. For instance, if it is a platform issue, you could include it in your issue title as follows:
+[UI][Platform] Title"
+  validations:
+    required: true 
