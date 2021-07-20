@@ -4,7 +4,9 @@ title: "[Docs] Title"
 labels: "area/documentation"
 body:
   - type: textarea
-      label : Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
+  id: what-happened
+  attributes:
+    label: What happened?
     validations:
       required: false       
    
