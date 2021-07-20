@@ -3,14 +3,10 @@ description: Choose this template to create a documentation issue.
 title: "[Docs] Title"
 labels: "area/documentation"
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
   - type: textarea
     attributes:
       label: Current Behavior
-      description: A concise description of what you're experiencing.
+      description: Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
     validations:
       required: false       
    
