@@ -6,8 +6,6 @@ body:
 - type: textarea
   id: repro
   attributes:
-    label: Reproduction steps
-    validations:
-      required: false       
+    label: Reproduction step  
    
         
