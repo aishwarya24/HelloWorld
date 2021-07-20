@@ -7,6 +7,8 @@ body:
   id: platform
   attributes:
     label: Description
-    placeholder: "Provide a detailed description of the issue you want to report with Yugabyte platform. Include the steps to reproduce the issues."
+    placeholder: |
+      **Provide a detailed description of the issue you want to report with Yugabyte platform.**
+      **Include the steps to reproduce the issue.**
   validations:
     required: true
