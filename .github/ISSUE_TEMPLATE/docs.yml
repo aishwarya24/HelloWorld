@@ -7,3 +7,11 @@ body:
     attributes:
       value: |
         Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
+  - type: textarea
+    attributes:
+      label: Current Behavior
+      description: A concise description of what you're experiencing.
+    validations:
+      required: false       
+   
+        
