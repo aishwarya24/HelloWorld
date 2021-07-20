@@ -4,6 +4,7 @@ title: "[docDB] Title"
 labels: "area/docdb"
 body:
 - type: textarea
+  id: docDB
   attributes:
     label: Description
     placeholder: |
