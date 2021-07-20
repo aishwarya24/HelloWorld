@@ -6,6 +6,6 @@ body:
 - type: textarea
   id: repro
   attributes:
-    label: Reproduction step  
+    label: Provide a detailed description of the information you want to update/include in the YugabyteDB docs.  
    
         
