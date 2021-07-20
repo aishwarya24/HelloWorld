@@ -7,7 +7,7 @@ body:
   id: ui
   attributes:
     label: Description
-    placeholder: "Provide a clear description of the issue you want to report related to the UI in Yugabyte. For instance, if it is a platform issue, you could include it in your issue title as follows:
+    placeholder: "Provide a clear description of the issue you want to report related to the UI in Yugabyte. For instance, if it is a platform issue, you could include it in your issue title like:
 [UI][Platform] Title"
   validations:
     required: true 
