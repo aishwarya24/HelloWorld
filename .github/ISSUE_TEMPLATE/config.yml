@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Cloud Feature Request
+    about: Request a new feature
+    url: https://github.com/Narigo/some-project/issues/new?template=CLOUD_FEATURE_REQUEST.md&projects=Narigo%2Fsome-project%2F1&labels=%3Azap%3A%20new
