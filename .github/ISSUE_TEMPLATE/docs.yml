@@ -7,7 +7,7 @@ body:
   id: documentation
   attributes:
     label: Description
-    placeholder: |+
+    placeholder: >
      ###Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
      
      ###What release/releases of the documentation does the issue apply to ?
