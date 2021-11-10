@@ -7,7 +7,7 @@ body:
   id: documentation
   attributes:
     label: Description
-    [placeholder]: focus::-webkit-input-placeholder {
+    placeholder: focus::-webkit-input-placeholder {
   transition: opacity 0.5s 0.5s ease; 
   opacity: 0;
 } |
