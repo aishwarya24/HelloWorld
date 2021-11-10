@@ -8,9 +8,8 @@ body:
   attributes:
     label: Description
     placeholder: |
-      **Provide a detailed description of the information you want to update/include in the YugabyteDB docs.**  
-    placeholder: |
-     **What release/releases of the documentation does the issue apply to ?**
+      **Provide a detailed description of the information you want to update/include in the YugabyteDB docs.**\n 
+      **What release/releases of the documentation does the issue apply to ?**
   validations:
     required: true 
     
