@@ -7,7 +7,10 @@ body:
   id: documentation
   attributes:
     label: Description
-    placeholder: |
+    [placeholder]: focus::-webkit-input-placeholder {
+  transition: opacity 0.5s 0.5s ease; 
+  opacity: 0;
+} |
       **Provide a detailed description of the information you want to update/include in the YugabyteDB docs.**
       
       **What release/releases of the documentation does the issue apply to ?**
