@@ -7,12 +7,14 @@ body:
   id: documentation
   attributes:
     label: Description
-    placeholder: |
-      Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
-      What release/releases of the documentation does the issue apply to ?
-     
+    placeholder: Provide a detailed description of the information you want to update/include in the YugabyteDB docs.
   validations:
     required: true 
+- type: textarea
+  attributes:
+    label: Versions
+    placeholder: What release/releases of the documentation does the issue apply to ?
+
     
    
         
